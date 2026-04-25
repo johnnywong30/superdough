@@ -1,0 +1,9 @@
+const MASON_JAR_WEIGHT = 180; // in grams
+const MINIMUM_STARTER = 5; // in grams
+const MIN_WEIGHT = MASON_JAR_WEIGHT + MINIMUM_STARTER;
+
+export default {
+  MASON_JAR_WEIGHT,
+  MINIMUM_STARTER,
+  MIN_WEIGHT,
+};
